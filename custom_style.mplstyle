@@ -6,7 +6,7 @@
 
 # --- Figura ---
 figure.facecolor        : white
-figure.dpi              : 150
+figure.dpi              : 100
 figure.titlesize        : 13
 figure.titleweight      : bold
 
